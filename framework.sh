@@ -17,7 +17,7 @@ banner(){
 	echo "    MAC Address: $lomac"
 	echo "    Default Gateway: $gway"
 	echo "----------------------------------------------------------------------"
-	echo "                      | Created by 73pp31in |"
+	echo "                      | Created by Meenakshi |"
 	echo ""
 }
 
